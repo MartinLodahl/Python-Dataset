@@ -14,7 +14,7 @@ Question 1:
   Top 3 and last 3 teams that has the most combined and least combined value of players on the team.
   
 Question 2:
-  Across all teams which country is the most common that the players are from
+  Which nationality is the most common amongst all players
 
 Question 3:
   What is the difference of the release clause and the value of all players
