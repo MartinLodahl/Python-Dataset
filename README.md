@@ -23,7 +23,7 @@ Question 4:
   What is the frequency of age, height and weight for all players
   
 Question 5: 
-  How much is the difference of value and wage bestween the players
+  How much is the difference of value and wage between the players
 
 
 
