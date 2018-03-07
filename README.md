@@ -25,7 +25,7 @@ Question 4:
 Question 5: 
   How much is the difference of value and wage between the players
 
-
+---------------------------------------------------------------------------------------------
 
 Link 2: https://www.kaggle.com/kendallgillies/video-game-sales-and-ratings/data
 
