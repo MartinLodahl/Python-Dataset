@@ -14,18 +14,19 @@ which team the player is in, the value of the player etc.
 
 Question 1:
   Top 3 and last 3 teams that has the most combined and least combined value of players on the team.
+  The 3 most expensive teams and the 3 cheapest teams according to player value.
   
 Question 2:
-  Which nationality is the most common amongst all players
+  Which nationality is the most frequent amongst all players
 
 Question 3:
-  What is the difference of the release clause and the value of all players
+  What is the difference between the release clause and the value of top 10 most valuable players 
   
 Question 4:
   What is the frequency of age, height and weight for all players
   
 Question 5: 
-  How much is the difference of value and wage between the players
+  How big is the average difference between value and wage off the players 
 
 ---------------------------------------------------------------------------------------------
 
